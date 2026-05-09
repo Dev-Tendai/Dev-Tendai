@@ -1,6 +1,6 @@
 # Hi there  , I'm Tendai Makunike
 
-### 💻 Software Engineering Student | Full Stack Developer | Flutter Mobile Developer | Wordpress website designer | 
+###  Software Engineering Student | Full Stack Developer | Flutter Mobile Developer | Wordpress website designer | 
 
 I am a Software Engineering student at Midlands State University with a strong passion for building modern digital solutions. I enjoy developing both frontend and backend web applications, creating Android apps using Flutter, and designing clean and responsive user interfaces with WordPress.
 
