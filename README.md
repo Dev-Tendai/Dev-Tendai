@@ -9,15 +9,15 @@ I am a Software Engineering student at Midlands State University with a strong p
 ## 🚀 About Me
 
 - 🎓 Studying **BSc Software Engineering**
--  Skilled in **Frontend & Backend Web Development**
--  Android App Developer using **Flutter**
--  Passionate about **UI/UX and WordPress Design**
--  Currently improving my skills in:
-  - Flutter & Firebase
-  - Full Stack Development
-  - APIs & Databases
-  - AI & Modern Technologies
--  I enjoy turning ideas into real-world applications
+-   Skilled in **Frontend & Backend Web Development**
+-   Android App Developer using **Flutter**
+-   Passionate about **UI/UX and WordPress Design**
+-   Currently improving my skills in:
+  -  Flutter & Firebase
+  -  Full Stack Development
+  -  APIs & Databases
+  -  AI & Modern Technologies
+-   I enjoy turning ideas into real-world applications
 
 ---
 
