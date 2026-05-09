@@ -1,6 +1,6 @@
 # Hi there  , I'm Tendai Makunike
 
-### 💻 Software Engineering Student | Full Stack Developer | Flutter Developer | Tech Enthusiast
+### 💻 Software Engineering Student | Full Stack Developer | Flutter Mobile Developer | Wordpress website designer | 
 
 I am a Software Engineering student at Midlands State University with a strong passion for building modern digital solutions. I enjoy developing both frontend and backend web applications, creating Android apps using Flutter, and designing clean and responsive user interfaces with WordPress.
 
@@ -9,21 +9,21 @@ I am a Software Engineering student at Midlands State University with a strong p
 ## 🚀 About Me
 
 - 🎓 Studying **BSc Software Engineering**
-- 💻 Skilled in **Frontend & Backend Web Development**
-- 📱 Android App Developer using **Flutter**
-- 🎨 Passionate about **UI/UX and WordPress Design**
-- 🌱 Currently improving my skills in:
+-  Skilled in **Frontend & Backend Web Development**
+-  Android App Developer using **Flutter**
+-  Passionate about **UI/UX and WordPress Design**
+-  Currently improving my skills in:
   - Flutter & Firebase
   - Full Stack Development
   - APIs & Databases
   - AI & Modern Technologies
-- ⚡ I enjoy turning ideas into real-world applications
+-  I enjoy turning ideas into real-world applications
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
-### 💻 Languages & Frameworks
+###  Languages & Frameworks
 - HTML5
 - CSS3
 - JavaScript
@@ -32,11 +32,11 @@ I am a Software Engineering student at Midlands State University with a strong p
 - Flutter
 - Firebase
 
-### 🗄️ Databases
+###   Databases
 - MySQL
 - Firebase Firestore
 
-### 🎨 Design & Tools
+###   Design & Tools
 - WordPress
 - Figma
 - Git & GitHub
@@ -46,14 +46,14 @@ I am a Software Engineering student at Midlands State University with a strong p
 
 ## 📌 Current Projects
 
-- 📱 QR Code Attendance Tracking System
-- 🌐 Full Stack Web Applications
-- 🎨 Modern WordPress UI Designs
-- ⚙️ Flutter Mobile Applications
+-  QR Code Attendance Tracking System
+-  Full Stack Web Applications
+-  Modern WordPress UI Designs
+-  Flutter Mobile Applications
 
 ---
 
-## 📈 GitHub Goals
+##  GitHub Goals
 
 - Build impactful software solutions
 - Contribute to open-source projects
@@ -62,11 +62,11 @@ I am a Software Engineering student at Midlands State University with a strong p
 
 ---
 
-## 📫 Connect With Me
+##  Connect With Me
 
-- 💼 GitHub: [Dev-Tendai](https://github.com/Dev-Tendai)
+-  GitHub: [Dev-Tendai](https://github.com/Dev-Tendai)
 
 ---
 
-## ⚡ Fun Fact
-I love blending technology, creativity, and innovation to build useful digital experiences 🚀
+## Fun Fact
+I love blending technology, creativity, and innovation to build useful digital experiences 
