@@ -9,6 +9,7 @@ I am a Software Engineering student at Midlands State University with a strong p
 ## 🚀 About Me
 
 - 🎓 Studying **BSc Software Engineering**
+  
 -    Skilled in **Frontend & Backend Web Development**
 -    Android App Developer using **Flutter**
 -    Passionate about **UI/UX and WordPress Design**
