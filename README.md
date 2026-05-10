@@ -1,4 +1,4 @@
-# Hi there  , I'm Tendai Makunike
+# Hi there , I'm Tendai Makunike
 
 ###  Software Engineering Student | Full Stack Developer | Flutter Mobile Developer | Wordpress website designer | 
 
